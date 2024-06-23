@@ -1,0 +1,7 @@
+# ninja log v5
+2	1389	7408142766705974	CMakeFiles/WorkWithArray.dir/main.cpp.obj	5609afd030e063b
+12	1394	7408142766722728	CMakeFiles/WorkWithArray.dir/array.cpp.obj	72cb18220c02bcc4
+7	1395	7408142766722728	CMakeFiles/WorkWithArray.dir/menu.cpp.obj	ec1d2116d114b7ae
+1395	1732	7408142770114428	WorkWithArray.exe	62f59b2b07c74d87
+5	1436	7408147244982936	CMakeFiles/WorkWithArray.dir/main.cpp.obj	5609afd030e063b
+1437	1688	7408147247441677	WorkWithArray.exe	62f59b2b07c74d87

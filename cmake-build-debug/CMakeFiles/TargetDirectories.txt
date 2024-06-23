@@ -1,0 +1,3 @@
+C:/Users/Jakub/CLionProjects/WorkWithArray/cmake-build-debug/CMakeFiles/WorkWithArray.dir
+C:/Users/Jakub/CLionProjects/WorkWithArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jakub/CLionProjects/WorkWithArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
